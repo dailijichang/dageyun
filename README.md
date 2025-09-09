@@ -23,12 +23,12 @@
 
 ## 大哥云机场测速
 
-![dageyun-SpeedTest](https://github.com/user-attachments/assets/b9dd8183-ace1-4da4-a2fe-f78c6a8454ae)
+<img width="4373" height="3482" alt="dageyun-SpeedTest-GXYD-20250905" src="https://github.com/user-attachments/assets/5b7ff9f8-58ca-4258-aa8e-5e005c25d7ab" />
 
 
 ## 大哥云出入口分析
 
-![dageyun-Network-Topology](https://github.com/user-attachments/assets/8151fedd-7338-431a-891f-e1c58eca844f)
+<img width="1796" height="3656" alt="dageyun-Network-Topology-GXYD-20250905" src="https://github.com/user-attachments/assets/caa8782c-0eb7-4600-b55d-fe2d352d513a" />
 
 
 ## 大哥云跑路
